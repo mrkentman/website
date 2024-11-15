@@ -21,7 +21,7 @@
         <li>Ensuring health and saftey was followed when dealing with gas cylinders/liquid nitrogen</li>
       </ul>
     <p><strong><em>Specsavers</em></strong> - Lab Assistant <em>(Oct 2015 - Jul 2016)</em></p>
-    <p>Working as part of a small team working in a face paced lab producing glasses for 3 local stores. Responsibilities included:</p>
+    <p>Working as part of a small team working in a face paced lab producing glasses for three local stores. Responsibilities included:</p>
     <ul>
       <li>Operation of machines for cutting lenses</li>
       <li>Keeping lab tidy to reduce risk of injury</li>
